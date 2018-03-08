@@ -1,3 +1,5 @@
+[![](https://www.jitpack.io/v/tianqiujie/BlockchainWallet-Crypto.svg)](https://www.jitpack.io/#tianqiujie/BlockchainWallet-Crypto)
+
 # BlockchainWallet-Crypto
 
 #### 本库用法还没有总结见谅
